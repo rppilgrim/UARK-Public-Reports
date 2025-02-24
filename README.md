@@ -8,3 +8,17 @@ Report List from https://research.uark.edu/research-analytics/
 - Sponsored Research Historic Data
 - Research Insights & Discovery Tool
 - Research Expenditures
+
+<details>
+<summary>Report Last Data Refresh</summary>
+
+```
+| Name | Last Data Refresh  |
+| ------- | --- | 
+| Sponsored Research Current Fiscal Year | x |
+| Sponsored Research Historic Data | x |
+| Research Insights & Discovery Tool | x |
+| Research Expenditures | x |
+```
+</details>
+
